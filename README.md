@@ -76,6 +76,7 @@ The code is structured into multiple stages:
 - All CAPTCHA images should be stored in a folder named `dataset`.
 - Each image filename represents its label, e.g., `abc12.png` corresponds to the label "abc12".
 - Images should ideally be of consistent format (e.g., `.png`, `.jpg`).
+- Dataset Link : https://www.kaggle.com/datasets/hakantaskiner/captcha-dataset
 
 ---
 
